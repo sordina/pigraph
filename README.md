@@ -8,6 +8,7 @@ Problems:
 * Problem: It is hard to visualise your program.
 * Problem: It is hard to ensure that you don't have cyclic deps in your programs.
 * Problem: It is hard to quantify the effect boundaries of your programs.
+* Problem: Keeping documentation, spec, reference implementation, and production in sync.
 
 With PiGraph:
 
