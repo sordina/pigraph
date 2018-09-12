@@ -1,6 +1,10 @@
 
 
 // extern crate pikelet;
+// extern crate phrases;
+// use phrases::english::greetings::hello;
+// use phrases::english::farewells::goodbye;
+
 
 
 #[no_mangle]
