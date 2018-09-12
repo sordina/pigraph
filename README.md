@@ -1,5 +1,5 @@
 
-PyGraph
+PiGraph
 
 Draw graphs.
 
